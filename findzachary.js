@@ -1,4 +1,4 @@
-/*jshint multistr:true */
+jshint multistr:true 
 var text = "Hi, my name is Zachary, this is the text variable. I am using this to find words, like Zachary, in my text. Zany Zachary zips."
 var myName = "Zachary"
 var hits = []
